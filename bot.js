@@ -138,4 +138,4 @@ if (command === `${prefix}ban`) {
 });
 
 
-bot.login(botConfig.token);
+client.login(process.enz.BOT_TOKEN);
